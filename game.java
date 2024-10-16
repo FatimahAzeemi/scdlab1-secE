@@ -1,4 +1,5 @@
-package lab12;
+#lab12
+	package lab12;
 
 import java.util.Scanner; 
 public class game
